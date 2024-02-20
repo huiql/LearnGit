@@ -5,3 +5,4 @@ Git tracks changes.
 Createing a new branch is quick.
 
 这是一个测试更新的例子
+这是一个测试merge的例子
