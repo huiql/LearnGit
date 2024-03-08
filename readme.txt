@@ -1,4 +1,3 @@
-22222222
 Git is a distributed Version Control system.
 Git is free software distributted under the GPL.
 Git has a mutable index called stage.
@@ -26,7 +25,3 @@ Createing a new branch is quick.
 
 这是终端的提交
 这里是ugit修改的提交
-
-我们都有一个家，名字叫中国
-
-大河向东流啊，天上的星星参北斗啊
